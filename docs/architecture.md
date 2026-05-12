@@ -212,3 +212,5 @@ Code fence → bare regex → trailing comma cleanup。单一策略会静默丢�
 ---
 
 _最后更新：2026-05-12_
+
+> 📦 开源代码：[github.com/xclgordon/plaud-pipeline](https://github.com/xclgordon/plaud-pipeline)
