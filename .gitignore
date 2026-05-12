@@ -1,0 +1,36 @@
+# Secrets
+.env
+plaud_token
+anchor_db.json
+
+# Org chart (may contain real names)
+config/org_chart.md
+
+# Data directories (user generated)
+recordings/
+transcripts/
+ai_notes/
+transcripts_diarized/
+transcripts_anchor_named/
+ai_notes_merged/
+images/
+wiki/
+sync_state.json
+pipeline_state.json
+pipeline.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+funasr-venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+/tmp/
+*.tmp
+*.wav

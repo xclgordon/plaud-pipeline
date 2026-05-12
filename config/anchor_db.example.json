@@ -1,0 +1,18 @@
+{
+  "_description": "声纹数据库示例。真实数据由管线自动生成，无需手动编辑。",
+  "_note": "复制此文件为 anchor_db.json 或留空，管线首次运行后自动填充。",
+  "speakers": {
+    "example_recording_001_spk_0": {
+      "name": "张三",
+      "embedding": [0.12, -0.34, 0.56, 0.78],
+      "confidence": "plaud",
+      "last_seen": "2026-01-01"
+    }
+  },
+  "clusters": {},
+  "metadata": {
+    "total_speakers": 0,
+    "total_embeddings": 0,
+    "last_updated": null
+  }
+}
